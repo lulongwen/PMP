@@ -2,8 +2,8 @@
 
 # dependencies
 node_modules
-1.SEO
-!1.SEO/.SEO.md
+/1.SEO/
+!/1.SEO/SEO.md
 
 # testing
 coverage
