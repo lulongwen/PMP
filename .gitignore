@@ -2,8 +2,7 @@
 
 # dependencies
 node_modules
-/1.SEO/
-!/1.SEO/SEO.md
+考试
 
 # testing
 coverage
@@ -14,7 +13,6 @@ dist
 
 # misc
 .DS_Store
-*/.DS_Store 
 .env.local
 .env.development.local
 .env.test.local
