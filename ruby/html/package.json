@@ -1,0 +1,8 @@
+{
+  "name": "ruby",
+  "version": "1.0.0",
+  "description": "ruby",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
