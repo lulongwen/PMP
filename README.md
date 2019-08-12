@@ -38,6 +38,28 @@
 
 
 
+## PMP相关管理理念
+1. ACP
+	* Agile Certified Practitioner
+	* AGILE 敏捷项目管理人士资格认证
+
+2. PGMP
+	* Program Management Professional
+	* 项目集管理认证
+
+3. PMP
+	* Project Management Institute
+	* 项目管理专业人士资格认证
+
+
+4. NPDP
+	* 产品经理国际资格认证
+
+5. PBA 
+	* 商业分析师 
+
+
+
 ## 圈子营销
 
 
