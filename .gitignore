@@ -2,7 +2,6 @@
 
 # dependencies
 node_modules
-考试
 
 # testing
 coverage
@@ -35,9 +34,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
-*.mmap
 *.svg
-*.pdf
 
 # Binaries for programs and plugins
 *.exe
